@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Semana3</string>
+    <string name="ImagenPerro">Perro</string>
+    <string name="TextoNombre">Nombre</string>
+    <string name="hintNumero">#</string>
+    <string name="bienvenido_a_petagram">Bienvenido a Petagram!</string>
+    <string name="todo">TODO</string>
+    <string name="Vamos">Ve a la segunda Actividad</string>
+    <string name="llegaste">Bienvenido a la 2da actividad</string>
+    <string name="estrella">estrellita</string>
+    <string name="trespuntos">Quedate</string>
+    <string name="petagram">Petagram!</string>
+</resources>
